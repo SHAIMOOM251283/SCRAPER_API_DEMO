@@ -32,12 +32,12 @@ Across all approaches, the project extracts rich product information including t
 
 This projects provide a rich demonstration of ScraperAPI’s versatility—from simple API calls and proxy management to structured endpoint utilization and asynchronous, multithreaded data extraction—enabling **scalable, efficient, and resilient scraping pipelines** across varied domains and data formats.
 
-## Data Visualization
+## Amazon Data Visualization
 
-**Amazon Product Data Sankey Diagram**
-![Image]()
+**Sankey Diagram**
+![Image](https://github.com/SHAIMOOM251283/SCRAPER_API_DEMO/blob/main/SCRAPER_API/IMAGES/AMAZON/Sankey_Diagram.png)
 The Sankey Diagram, created using data from the `AMAZON/lenovo_3.json` file, depicts the hierarchical flow of Lenovo products across three levels: **Category**, **Brand**, and **Series**. Each node represents a unique value from these levels, and the links between them illustrate how many products transition from one level to the next. The width of each link is proportional to the number of products, providing a clear visual representation of how products are distributed from broader categories to specific series.
 
-**Amazon Products Feature & Description Word Cloud**
-![Image]()
+**Word Cloud**
+![Image](https://github.com/SHAIMOOM251283/SCRAPER_API_DEMO/blob/main/SCRAPER_API/IMAGES/AMAZON/Word_Cloud.png)
 The Word Cloud, created using data from the `AMAZON/lenovo_3.json` file, visually represents the most frequent terms found in the product **feature bullets** and **full descriptions** of Lenovo products. Words that appear more often are shown in larger font, offering a quick overview of key features and common terms associated with the products.
