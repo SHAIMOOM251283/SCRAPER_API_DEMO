@@ -30,6 +30,11 @@ Across all approaches, the project extracts rich product information including t
 
 * **Walmart** — Performs paginated search queries to collect product listings, extracts product IDs, and concurrently fetches detailed product data. Error handling and multithreading improve efficiency and resilience. All extracted product data is saved in JSON format for further analysis.
 
+## From APIs to Visual Insights
+This project provides a rich demonstration of ScraperAPI’s versatility—from simple API calls and proxy management to structured endpoint utilization and asynchronous, multithreaded data extraction—enabling scalable, efficient, and resilient scraping pipelines. Combined with insightful data visualizations, it showcases a complete journey from raw web data to structured analysis across varied domains.
+
+The scraped datasets are further explored through a series of data visualizations, highlighting category distributions, pricing patterns, review sentiments, and more. Each visualization offers insights into domain-specific data collected from various platforms. Below are the visual analyses grouped by source.
+
 ## Amazon Data Visualization
 
 **Sankey Diagram**
@@ -119,6 +124,3 @@ The bubble chart, created using data from the `WALMART/walmart_products.json` fi
 **Word Cloud**
 ![Image](https://github.com/SHAIMOOM251283/SCRAPER_API_DEMO/blob/main/SCRAPER_API/IMAGES/WALMART/Word_Cloud.png)
 The word cloud, created using data from the `WALMART/walmart_products.json` file, displays the most frequent terms found in Walmart product short descriptions and customer reviews. Larger words indicate higher frequency, providing a quick visual insight into common themes and keywords associated with the products.
-
-## From APIs to Visual Insights
-This project provides a rich demonstration of ScraperAPI’s versatility—from simple API calls and proxy management to structured endpoint utilization and asynchronous, multithreaded data extraction—enabling scalable, efficient, and resilient scraping pipelines. Combined with insightful data visualizations, it showcases a complete journey from raw web data to structured analysis across varied domains.
