@@ -1,0 +1,1676 @@
+[
+    {
+        "url": "https://www.redfin.com/NY/Rego-Park/9881-Queens-Blvd-11374/home/194271806",
+        "address": "Trylon Tower | 9881 Queens Blvd, Rego Park, NY 11374",
+        "phone": "(347) 315-2597",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3138",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "Dishwasher",
+            "Walker's paradise",
+            "Patio/Balcony"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/7-Navy-Pier-Ct-10304/home/166976662",
+        "address": "Staten Island Urby | 7 Navy Pier Ct, Staten Island, NY 10304",
+        "phone": "(646) 760-6240",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "538 sq ft",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2432",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [
+            "NEW 1 HR AGO"
+        ],
+        "key_facts": [
+            "3 units available",
+            "Pets welcome",
+            "A/C"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/1515-Surf-Ave-11224/home/194269054",
+        "address": "1515 Surf Ave, Brooklyn, NY 11224",
+        "phone": "(929) 730-7166",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3125,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            },
+            {
+                "cost": 3130,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "2 bd"
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "27 units available",
+            "Pets welcome",
+            "No deposit"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/The-Brooklyner/apartment/40918467",
+        "address": "The Brooklyner | 111 Lawrence St, Brooklyn, NY 11201",
+        "phone": "(929) 730-3439",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3448,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 3212,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "NEW 1 HR AGO",
+            "3D WALKTHROUGH"
+        ],
+        "key_facts": [
+            "14 units available",
+            "Pets welcome",
+            "A/C"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Whitestone/New-York-City-LaGuardia-Airport/apartment/60289914",
+        "address": "New York City - LaGuardia Airport | 18-30 Whitestone Expy, Whitestone, NY 11357",
+        "phone": "(929) 612-3817",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "300 sq ft",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4649",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "A/C",
+            "Somewhat walkable",
+            "Good transit"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/James-Marquis/apartment/45121195",
+        "address": "James Marquis | 101 W 90th St, New York, NY 10024",
+        "phone": "(917) 672-6091",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3997,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 5510,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "NEW 1 HR AGO"
+        ],
+        "key_facts": [
+            "8 units available",
+            "Pets welcome",
+            "No deposit"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/60-Wharf-Dr-11222/home/186071813",
+        "address": "West Wharf | 60 Wharf Dr, Brooklyn, NY 11222",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2.5 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/bb6eb2f1-3b29-4d5d-93d9-5f4956895fb4/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3942",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Long-Island-City/The-Italic-Apartments/apartment/186349118",
+        "address": "The Italic Apartments | 2632 Jackson Ave, Long Island City, NY 11101",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "1,044-1,492 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/f2d862ed-d03f-42e3-8397-fff67ebf2071/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3617",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Long-Island-City/Jasper/apartment/192275763",
+        "address": "Jasper | 233 50th Ave, Long Island City, NY 11101",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "458-1,228 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/501a850b-f46e-405e-8f86-22e52255ca2c/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3663",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/7-Dekalb-Ave-11201/apartment/177432754",
+        "address": "7 Dekalb Ave, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "669-1,099 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/0622a3bb-4b59-4e71-8077-560fa21bb3d0/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4397",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/240-Willoughby-St-11201/apartment/191506816",
+        "address": "240 Willoughby St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "661-664 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/8fffee79-9b17-42d1-a93d-7b1d2f7f5540/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3195",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/2035-5th-Ave-10035/home/196065718",
+        "address": "Ray Harlem | 2035 5th Ave, New York, NY 10035",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/4e43b3be-7de4-40f4-afe8-0f36d1a80974/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3150",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Miramar/apartment/195580705",
+        "address": "Miramar | 407 W 206th St, New York, NY 10034",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/04d5b0a2-1bbb-410b-941b-33aac02d7d1e/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3150",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Arverne/The-Tides-At-Arverne-By-The-Sea/apartment/146241124",
+        "address": "The Tides At Arverne By The Sea | 190 Beach 69th St, Arverne, NY 11692",
+        "phone": "",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "659 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/69cf9e0b-472a-4b06-b3fa-d4bf8b001b18/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2900",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Marquis-West-Side/apartment/177402979",
+        "address": "Marquis West Side | 70 W 95th St, New York, NY 10025",
+        "phone": "",
+        "number_beds": "1-4 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "676-1,515 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/10992563-c428-4633-956c-58532f077cec/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5095",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Biltmore/apartment/177399733",
+        "address": "The Biltmore | 267 W 47th St, New York, NY 10036",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "416-1,265 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/eb42280d-b00e-47b5-add0-d4705fc044d9/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4361",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/180-Montague-St-11201/apartment/40683865",
+        "address": "180 Montague St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "396-1,406 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/6850a49e-fb09-4745-aef8-9b3c6d558266/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4264",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/345-E-94th-St-10128/apartment/45295994",
+        "address": "345 East 94th Street | 345 E 94th St, New York, NY 10128",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "468-1,575 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/8c990e29-6b6f-4fb1-a673-d843b8a5acca/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3503",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Dylan/apartment/45340967",
+        "address": "The Dylan | 309 5th Ave, New York, NY 10016",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "427-1,021 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/d69002b2-4e23-4cca-a522-c8d642e208c1/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4559",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/30-Waterside-Plz-10010/apartment/178400914",
+        "address": "30 Waterside Plz, New York, NY 10010",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "424-1,304 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/02a9cebb-28d1-4aba-b0d3-df57c7e78394/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3554",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/111-Worth-St-10013/apartment/45125616",
+        "address": "111 Worth St, New York, NY 10013",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "607-814 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/c02ec089-2378-4c49-8d3e-4db908be32a3/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5860",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Murray-Hill-Marquis/apartment/176192035",
+        "address": "Murray Hill Marquis | 150 E 34th St, New York, NY 10016",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "488-709 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/cbe2408c-8ebd-4335-9098-094a9ce57b65/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3823",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Mabel/apartment/196181316",
+        "address": "Mabel | 335 8th Ave, New York, NY 10001",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/eba487e7-3505-45f2-a7f5-d4d6144bdf90/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4835",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/Eagle-and-West/apartment/189616886",
+        "address": "Eagle and West | 1 Eagle St, Brooklyn, NY 11222",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "488-1,445 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/e7457ef6-47c7-418b-89b1-2d8dde7f8a51/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3492",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/15-Cliff-St-10038/home/45205122",
+        "address": "15 Cliff St, New York, NY 10038",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "460-939 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/20a763ac-6f55-4882-b0a1-87eac3fbdcac/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4140",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/55-Broad-St-10004/apartment/193001998",
+        "address": "55 Broad St, New York, NY 10004",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-3 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/0e85cac1-4069-4ee5-9087-df8b31e1f639/islphoto/genIsl.0_9.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4475",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/60-Riverside-Blvd-10069/home/45332588",
+        "address": "The Aldyn | 60 Riverside Blvd, New York, NY 10069",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "759-1,279 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2f24fa1c-576d-45a8-96ec-9209e8231ab1/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5575",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Long-Island-City/Avalon-Riverview/apartment/20666981",
+        "address": "Avalon Riverview | 475 48th Ave, Long Island City, NY 11109",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-3 bath",
+        "sq_ft": "460-2,127 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/76599ce6-bed0-471b-b7b3-377d20e7e501/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3455",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Long-Island-City/Watermark-LIC/apartment/144213483",
+        "address": "Watermark LIC | 2719 44th Dr, Long Island City, NY 11101",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "429 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/bd4f4452-8478-46e3-b713-30baacd4226f/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3464",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/224-E-59th-St-10022/apartment/45280628",
+        "address": "224 E 59th St, New York, NY 10022",
+        "phone": "",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/299245be-6d67-4dc9-9e5a-2d5952e50522/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5000",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Beatrice/apartment/177360358",
+        "address": "Beatrice | 105 W 29th St, New York, NY 10001",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-3 bath",
+        "sq_ft": "434-1,890 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/9cf63fef-7fba-4f31-8711-6fc891bedef7/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4804",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Riverbank/apartment/177354207",
+        "address": "Riverbank | 560 W 43rd St, New York, NY 10036",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "386-1,126 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2b2dc147-b858-4ebf-8195-45e81185f37f/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "cost": null,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Floral-Park/Fairfield-Metro-At-Floral-Park/apartment/180460709",
+        "address": "Fairfield Metro At Floral Park | 77 S Tyson Ave, Floral Park, NY 11001",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "665-950 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/719b36c6-beb0-40f6-a14b-42a6f97a582d/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3015",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Astoria/1420-27th-Ave-11102/apartment/195832800",
+        "address": "1420 27th Ave, Astoria, NY 11102",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/4c442394-988f-4b48-b2e2-ad93a9195b49/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3378",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Henry-Hall/apartment/177403541",
+        "address": "Henry Hall | 515 W 38th St, New York, NY 10018",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2.5 bath",
+        "sq_ft": "596-1,303 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/b0e5d242-5491-458e-96ce-d182adf2611c/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4538",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Octagon/apartment/179446136",
+        "address": "The Octagon | 888 Main St, New York, NY 10044",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "500-915 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/41c1b5aa-3e42-4780-ab5e-017eb4a5c12c/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3000",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Sutton-Marquis/apartment/166889235",
+        "address": "Sutton Marquis | 417 E 57th St, New York, NY 10022",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "608 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2c6b3697-23d0-452b-94e7-7a27542a0d0b/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3395",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Chelsea/apartment/177407331",
+        "address": "The Chelsea | 160 W 24th St, New York, NY 10011",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "523-948 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/a48012aa-7c6e-495e-bfed-4cac5260d528/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5490",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/389-S-End-Ave-10280/home/193646860",
+        "address": "Gateway | 389 S End Ave, New York, NY 10280",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "484-1,249 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/c2a078a2-8f59-4d80-bf3a-1ff6a86dfc70/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3953",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/AVA-Fort-Greene/apartment/40733787",
+        "address": "AVA Fort Greene | 343 Gold St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "489-1,318 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/4d6b5798-97fd-4c25-ad50-9438f3d94e66/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3324",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Sagamore/apartment/177392837",
+        "address": "The Sagamore | 189 W 89th St, New York, NY 10024",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "470-693 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/ae272962-aa05-4b48-a7ca-33fe499e73bd/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4431",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Anagram-Turtle-Bay/apartment/166929431",
+        "address": "Anagram Turtle Bay | 300 E 50th St, New York, NY 10022",
+        "phone": "(646) 417-9518",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 4875,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 6745,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "DEAL"
+        ],
+        "key_facts": [
+            "11 units available",
+            "Pets welcome",
+            "Dishwasher"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Oriana/apartment/45282059",
+        "address": "The Oriana | 420 E 54th St, New York, NY 10022",
+        "phone": "(929) 730-7371",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3996,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 4995,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "NEW 25 HRS AGO",
+            "DEAL"
+        ],
+        "key_facts": [
+            "12 units available",
+            "Pets welcome",
+            "Parking"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/SoMA/apartment/194751047",
+        "address": "SoMA | 25 Water St, New York, NY 10004",
+        "phone": "(917) 672-7969",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 4095,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 5985,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "Pets welcome",
+            "Dishwasher",
+            "Patio/Balcony"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/400-W-61st-St-10023/home/173152477",
+        "address": "Waterline Square | 400 W 61st St, New York, NY 10023",
+        "phone": "(646) 631-4723",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 5860,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 7377,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "50 units available",
+            "Pets welcome",
+            "A/C"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/View-34/apartment/178362496",
+        "address": "View 34 | 401 E 34th St, New York, NY 10016",
+        "phone": "(917) 933-5840",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3560,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 3943,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "NEW 1 HR AGO"
+        ],
+        "key_facts": [
+            "48 units available",
+            "Pets welcome",
+            "Parking"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Avalon-West-Chelsea/apartment/177414230",
+        "address": "Avalon West Chelsea | 282 11th Ave, New York, NY 10011",
+        "phone": "(646) 631-5863",
+        "number_beds": "",
+        "number_baths": "",
+        "sq_ft": "",
+        "price": [
+            {
+                "cost": 3717,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "Studio"
+            },
+            {
+                "cost": 5882,
+                "currency": "USD",
+                "charge_rate": "/mo",
+                "deal": "1 bd"
+            }
+        ],
+        "badge": [
+            "DEAL"
+        ],
+        "key_facts": [
+            "Pets welcome",
+            "Walker's paradise",
+            "Rider's paradise"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/AVA-High-Line/apartment/177391286",
+        "address": "AVA High Line | 525 W 28th St, New York, NY 10001",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "481-1,752 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/57b7a8dd-aeb3-41e9-9db8-93469d7062a9/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4470",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Hudson-Landing/apartment/45264386",
+        "address": "Hudson Landing | 561 10th Ave, New York, NY 10036",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "680-1,074 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/01053b4f-6440-48ce-a372-900701652c0a/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4687",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Olivia/apartment/45249095",
+        "address": "The Olivia | 315 W 33rd St, New York, NY 10001",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "492-677 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2d3ec74d-d21d-434a-847a-c5b5a95732ee/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3904",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/Avalon-Willoughby-Square/apartment/179445945",
+        "address": "Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "399-1,513 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/d7ce6106-d9f5-4c2a-8eea-4c8eebf10a60/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3630",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Avalon-Clinton/apartment/177388440",
+        "address": "Avalon Clinton | 515 W 52nd St, New York, NY 10019",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "389-1,816 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2b0a47c3-3ba1-4b33-bde0-05926cc8b72e/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3410",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Ashley/apartment/45318350",
+        "address": "The Ashley | 400 W 63rd St, New York, NY 10069",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-3 bath",
+        "sq_ft": "589-1,883 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/b0725a55-ec44-4e07-b018-a0ac0fb4aa07/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4865",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/HUB/apartment/177403294",
+        "address": "HUB | 333 Schermerhorn St, Brooklyn, NY 11217",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "435-711 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2ba29139-147c-4c29-9fce-a8254e33ac37/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3702",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Avalon-Midtown-West/apartment/45261341",
+        "address": "Avalon Midtown West | 250 W 50th St, New York, NY 10019",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "412-1,157 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/17f4c8b7-7cfc-4dcf-8c14-5f4f8ead62a6/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3971",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/196-Willoughby-St-11201/home/184739247",
+        "address": "196 Willoughby St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "432-1,030 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/fa536836-e07d-4752-838b-66ddccace0bd/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3648",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Two-Lincoln-Square/apartment/45266177",
+        "address": "Two Lincoln Square | 60 W 66th St, New York, NY 10023",
+        "phone": "",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5714",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Anagram-Nomad/apartment/177401993",
+        "address": "Anagram Nomad | 10 E 29th St, New York, NY 10016",
+        "phone": "",
+        "number_beds": "1-3 bed",
+        "number_baths": "1-3 bath",
+        "sq_ft": "625-1,640 sq ft",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "6268",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/The-Arcadian/apartment/171980581",
+        "address": "The Arcadian | 975 Nostrand Ave, Brooklyn, NY 11225",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/208d8be8-eb82-43a6-97d5-6574e76f6471/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2900",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/Third-at-Bankside/apartment/195589218",
+        "address": "Third at Bankside | 2385 Third Ave, Bronx, NY 10451",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "415-1,385 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2eb38470-c817-451a-aa91-820f752bbda1/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2799",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Avalon-Bowery-Place/apartment/177389244",
+        "address": "Avalon Bowery Place | 11 E 1st St, New York, NY 10003",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "420-1,700 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/fa089754-0c66-4ee1-9865-fde3e56f45fa/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5340",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/808-Columbus-Ave-10025/home/45323539",
+        "address": "Columbus Square | 808 Columbus Ave, New York, NY 10025",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "408-1,090 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/5d4c3a6a-2119-4853-b91f-7494112a7d50/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3959",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/Aalto57/apartment/181087482",
+        "address": "Aalto57 | 1065 2nd Ave, New York, NY 10022",
+        "phone": "",
+        "number_beds": "1-3 bed",
+        "number_baths": "1-3 bath",
+        "sq_ft": "704-1,540 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/17086811-eb7e-45fa-a1fc-73ebb6c150ee/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "6175",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Queens/Archer-House/apartment/179292932",
+        "address": "Archer House | 148-37 88th Ave, Queens, NY 11435",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "500-1,000 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/17e7bfc0-ed55-4aef-a0fc-83c5b3dfc164/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2050",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/The-Capitol/apartment/195165002",
+        "address": "The Capitol | 776 6th Ave, New York, NY 10001",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "403-1,231 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/8414c3b9-931f-46b3-bdec-624cf8406670/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "5031",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/160-Front-St-11201/home/180466305",
+        "address": "Magnolia Dumbo | 160 Front St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "505-1,021 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/3e639378-22e7-4a4c-be13-d6befd841e01/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3600",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/461-Dean-St-11217/apartment/59291394",
+        "address": "461 Dean St, Brooklyn, NY 11217",
+        "phone": "",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "440-985 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/12253c80-711d-4038-ae68-c1e9daed7583/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3595",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Little-Neck/4314-Douglaston-Pkwy-11363/home/20804805",
+        "address": "Fairfield Manor at Douglaston | 4314 Douglaston Pkwy, Little Neck, NY 11363",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/6b662a27-11b2-4049-ac4a-bd411191cb3e/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "1995",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Astoria/2718-Ditmars-Blvd-11105/home/20946748",
+        "address": "Fairfield Riverpark At Astoria | 2718 Ditmars Blvd, Astoria, NY 11105",
+        "phone": "",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/c0384513-c3a8-4e4d-833b-e8b9c5ef9ff1/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2900",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/10-Hanover-Sq-10005/apartment/45340738",
+        "address": "10 Hanover Sq, New York, NY 10005",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "431-1,161 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2d361e4d-1744-4dd0-bbd2-410490e19a35/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3676",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/475-Clermont-Ave-11238/apartment/177441812",
+        "address": "475 Clermont Ave, Brooklyn, NY 11238",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "423-1,054 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/d14676d8-95b5-4c90-bf88-d1d16cfa4b84/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3512",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Jamaica/14725-94th-Ave-11435/home/192270248",
+        "address": "Alvista Rise | 14725 94th Ave, Jamaica, NY 11435",
+        "phone": "",
+        "number_beds": "1-2 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "600-1,000 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/e5b78904-1d1c-4189-8049-96fc1bdd15a6/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2450",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Jamaica/Ruby-Square/apartment/186342666",
+        "address": "Ruby Square | 16620 90th Ave, Jamaica, NY 11432",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "10 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/72183d58-2c50-4cab-b9d1-ed6998bdf04f/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2850",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/The-Century/apartment/44752360",
+        "address": "The Century | 2600 Netherland Ave, Bronx, NY 10463",
+        "phone": "",
+        "number_beds": "1-3 bed",
+        "number_baths": "1-2.5 bath",
+        "sq_ft": "540-1,725 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/2ab58099-bb6e-4fb3-ab25-cdb605f419d9/islphoto/genIsl.0_143.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2900",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/535-Carlton-Ave-11238/apartment/109573695",
+        "address": "535 Carlton Ave, Brooklyn, NY 11238",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/e76c3c19-a9d1-4190-90e5-ab947ea0a591/islphoto/genIsl.0_1.webp",
+        "price": [
+            {
+                "cost": null,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Far-Rockaway/Fairfield-At-Far-Rockaway/apartment/20677685",
+        "address": "Fairfield At Far Rockaway | 707 Beach 9th St, Far Rockaway, NY 11691",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-1.5 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/68f5a29d-56a0-4cf3-962d-e288f9da019d/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "1850",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/AVA-DoBro/apartment/40682056",
+        "address": "AVA DoBro | 100 Willoughby St, Brooklyn, NY 11201",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "431-1,353 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/3113f746-7347-4fe6-93de-6e44997778ee/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3255",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/21-Chelsea/apartment/45249689",
+        "address": "21 Chelsea | 120 W 21st St, New York, NY 10011",
+        "phone": "",
+        "number_beds": "0-1 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "410-670 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/69fc0cf8-ee7e-49d1-bb8c-ef814c338fde/islphoto/genIsl.0_4.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "4524",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/Avalon-Brooklyn-Bay/apartment/179446108",
+        "address": "Avalon Brooklyn Bay | 1524 Sheepshead Bay Rd, Brooklyn, NY 11235",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-3 bath",
+        "sq_ft": "507-1,419 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/86279ed6-9dfe-4c1c-b95a-66814e94980a/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "2970",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/Maven/apartment/180444323",
+        "address": "Maven | 2413 3rd Ave, Bronx, NY 10451",
+        "phone": "",
+        "number_beds": "1-3 bed",
+        "number_baths": "1-2 bath",
+        "sq_ft": "505-1,210 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/5711d9e7-83d2-4cc3-b94e-a74f09b90d90/islphoto/genIsl.0_3.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3069",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/38-6th-Ave-11217/apartment/143604373",
+        "address": "38 Sixth Ave | 38 6th Ave, Brooklyn, NY 11217",
+        "phone": "",
+        "number_beds": "0-3 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "590-1,163 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/41f407e2-49aa-42c0-a8fe-a7217cb8efbe/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "cost": null,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/95-Wall-St-10005/apartment/53397201",
+        "address": "95 Wall St, New York, NY 10005",
+        "phone": "",
+        "number_beds": "0-2 beds",
+        "number_baths": "1-2 bath",
+        "sq_ft": "444-1,310 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/rent/0eb39f46-97e2-4929-abd2-9ad240cc9e61/islphoto/genIsl.0_2.webp",
+        "price": [
+            {
+                "currency": "USD",
+                "cost": "3594",
+                "charge_rate": "/mo"
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    }
+]

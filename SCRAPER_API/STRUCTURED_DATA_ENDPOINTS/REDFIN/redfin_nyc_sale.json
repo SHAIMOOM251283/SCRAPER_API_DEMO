@@ -1,0 +1,1690 @@
+[
+    {
+        "url": "https://www.redfin.com/NY/New-York/313-E-89th-St-10128/unit-2C/home/45161652",
+        "address": "313 E 89th St Unit 2C, New York (manhattan), NY 10128",
+        "phone": "Listing by Redfin Real Estate",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "450 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/197/genIslnoResize.889197_0.jpg",
+        "price": [
+            {
+                "cost": 400000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "LISTED BY REDFIN",
+            "3D WALKTHROUGH"
+        ],
+        "key_facts": [
+            "Built 1925",
+            "Listed 3 days"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/555-W-End-Ave-10024/unit-The-Solarium/home/183800072",
+        "address": "555 W End Ave Unit The Solarium, New York City, NY 10024",
+        "phone": "Listing by Sothebys International Realty • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "3,420 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/186/genIslnoResize.RLS10975186_17.jpg",
+        "price": [
+            {
+                "cost": 18000000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "8,071 sq ft lot",
+            "Built 2018"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/555-W-End-Ave-10024/unit-The-Library/home/167452795",
+        "address": "555 W End Ave Unit The library, New York City, NY 10024",
+        "phone": "Listing by Sothebys International Realty • Provided by REBNY",
+        "number_beds": "5 beds",
+        "number_baths": "5.5 baths",
+        "sq_ft": "3,463 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/187/genIslnoResize.RLS10975187_17.jpg",
+        "price": [
+            {
+                "cost": 9900000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "$6,868 HOA",
+            "Built 2018"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Astoria/2177-33rd-St-11105/unit-5E/home/39599550",
+        "address": "21-77 33rd St Unit 5-E, New York City, NY 11105",
+        "phone": "Listing by Beekman Street Realty LLC • Provided by REBNY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/926/genIslnoResize.RLS10986926_1B.jpg",
+        "price": [
+            {
+                "cost": 345000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [
+            "Built 1923"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Woodside/7122-Calamus-Ave-11377/home/20911092",
+        "address": "71-22 Calamus Ave, Woodside, NY 11377",
+        "phone": "",
+        "number_beds": "4 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,518 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/017/genIslnoResize.891017_0.jpg",
+        "price": [
+            {
+                "cost": 1099000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "NEW 8 MINS AGO"
+        ],
+        "key_facts": [
+            "2,935 sq ft lot",
+            "Built 1935"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/213-Eastern-Pkwy-11238/unit-3/home/196493097",
+        "address": "213 Eastern Pkwy #3, Brooklyn, NY 11238",
+        "phone": "Listing provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/884/genIslnoResize.RLS20037884_0.jpg",
+        "price": [
+            {
+                "cost": 499000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/195-Willoughby-Ave-11205/unit-1708/home/196492955",
+        "address": "195 Willoughby Ave #1708, Brooklyn, NY 11205",
+        "phone": "Listing provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "700 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/882/genIslnoResize.RLS20037882_0.jpg",
+        "price": [
+            {
+                "cost": 675000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/1858-Wallace-Ave-10462/home/44776020",
+        "address": "1858 Wallace Ave, Bronx, NY 10462",
+        "phone": "",
+        "number_beds": "5 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "3,113 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/027/genIslnoResize.891027_0.jpg",
+        "price": [
+            {
+                "cost": 1175000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/1248-Noble-Ave-10472/home/44723348",
+        "address": "1248 Noble Ave, Bronx, NY 10472",
+        "phone": "",
+        "number_beds": "7 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "2,593 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/023/genIslnoResize.891023_0.jpg",
+        "price": [
+            {
+                "cost": 1099000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/547-W-47th-St-10036/unit-521/home/177551704",
+        "address": "547 W 47th St #521, New York City, NY 10036",
+        "phone": "Listing provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "670 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/879/genIslnoResize.RLS20037879_0.jpg",
+        "price": [
+            {
+                "cost": 1155000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/11-Riverside-Dr-10023/unit-15OE/home/196492373",
+        "address": "11 Riverside Dr Unit 15OE, New York City, NY 10023",
+        "phone": "Listing provided by REBNY",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/878/genIslnoResize.RLS20037878_0.jpg",
+        "price": [
+            {
+                "cost": 499000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/4209-Avenue-S-11234/home/40902306",
+        "address": "4209 Avenue S, Brooklyn, NY 11234",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "2.5 baths",
+        "sq_ft": "1,036 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/222/genIslnoResize.494222_1.jpg",
+        "price": [
+            {
+                "cost": 769000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/12-Vermont-Ct-11207/home/40757058",
+        "address": "12 Vermont Ct, Brooklyn, NY 11207",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "1.5 baths",
+        "sq_ft": "1,250 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/841/genIslnoResize.890841_0.jpg",
+        "price": [
+            {
+                "cost": 669999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/225-E-46th-St-10017/unit-9B/home/45279436",
+        "address": "225 E 46th St Unit 9-B, New York City, NY 10017",
+        "phone": "Listing provided by REBNY",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "500 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/873/genIslnoResize.RLS20037873_0.jpg",
+        "price": [
+            {
+                "cost": 520000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/2483-W-16th-St-11214/unit-10H/home/191870026",
+        "address": "2483 W 16th St Unit 10H, Brooklyn, NY 11214",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "1.5 baths",
+        "sq_ft": "1,250 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/007/genIslnoResize.891007_0.jpg",
+        "price": [
+            {
+                "cost": 398000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/317-E-49th-St-11203/home/196491418",
+        "address": "317 E 49th St, Brooklyn, NY 11203",
+        "phone": "",
+        "number_beds": "7 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "2,706 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/307/genIslnoResize.494307_0.jpg",
+        "price": [
+            {
+                "cost": 1200000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/2612-W-15th-St-11214/home/40849929",
+        "address": "2612 W 15th St, Brooklyn, NY 11214",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,949 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/289/genIslnoResize.494289_0.jpg",
+        "price": [
+            {
+                "cost": 1849000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/3106-Eastchester-Rd-10469/home/44782610",
+        "address": "3106 Eastchester Rd, Bronx, NY 10469",
+        "phone": "",
+        "number_beds": "5 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "2,717 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/939/genIslnoResize.890939_0.jpg",
+        "price": [
+            {
+                "cost": 899000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Maspeth/6243-60th-Dr-11378/home/20905593",
+        "address": "62-43 60th Dr, Maspeth, NY 11378",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "2.5 baths",
+        "sq_ft": "1,400 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/905/genIslnoResize.890905_0.jpg",
+        "price": [
+            {
+                "cost": 999999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/1414-W-4th-St-11204/unit-5/home/148049871",
+        "address": "1414 W 4th St Ph 5, Brooklyn, NY 11204",
+        "phone": "",
+        "number_beds": "3 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,300 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/997/genIslnoResize.890997_0.jpg",
+        "price": [
+            {
+                "cost": 1150000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/1037-College-Ave-10456/home/44725314",
+        "address": "1037 College Ave, Bronx, NY 10456",
+        "phone": "Listing by Locqube New York, Inc.",
+        "number_beds": "12 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "3,708 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/993/genIslnoResize.890993_0.jpg",
+        "price": [
+            {
+                "cost": 1299999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/155-E-69th-St-10021/home/196490730",
+        "address": "155 E 69th St, New York City, NY 10021",
+        "phone": "Listing by Sothebys International Realty • Provided by REBNY",
+        "number_beds": "5 beds",
+        "number_baths": "4 baths",
+        "sq_ft": "4,711 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/859/genIslnoResize.RLS20037859_0.jpg",
+        "price": [
+            {
+                "cost": 9500000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Woodhaven/8617-88th-Ave-11421/home/20783052",
+        "address": "86-17 88 Ave, Woodhaven, NY 11421",
+        "phone": "Listing by Winzone Realty Inc",
+        "number_beds": "7 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "2,376 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/976/genIslnoResize.890976_0.jpg",
+        "price": [
+            {
+                "cost": 1250000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Corona/9815-34th-Ave-11368/home/20926704",
+        "address": "98-15 34th Ave, Corona, NY 11368",
+        "phone": "Listing by New Group Realty Inc",
+        "number_beds": "4 beds",
+        "number_baths": "— baths",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/980/genIslnoResize.890980_0.jpg",
+        "price": [
+            {
+                "cost": 4000000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/150-Bay-53rd-St-11214/home/40849983",
+        "address": "150 Bay 53rd St, Brooklyn, NY 11214",
+        "phone": "Listing by RE/MAX Real Estate Professiona",
+        "number_beds": "2 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,248 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/291/genIslnoResize.494291_2.jpg",
+        "price": [
+            {
+                "cost": 899000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/215-W-75th-St-10023/unit-6B/home/45327451",
+        "address": "215 W 75th St Unit 6B, New York City, NY 10023",
+        "phone": "Listing by Compass • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/857/genIslnoResize.RLS20037857_0.jpg",
+        "price": [
+            {
+                "cost": 790000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/9728-Flatlands-Ave-11236/home/40891685",
+        "address": "9728 Flatlands Ave, Brooklyn, NY 11236",
+        "phone": "Listing by BHHS Fillmore R.E.",
+        "number_beds": "5 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/272/genIslnoResize.494272_0.jpg",
+        "price": [
+            {
+                "cost": 1219000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/224-E-11th-St-10003/unit-25/home/196490527",
+        "address": "224 E 11th St #25, New York City, NY 10003",
+        "phone": "Listing by Douglas Elliman Real Estate • Provided by REBNY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/852/genIslnoResize.RLS20037852_0.jpg",
+        "price": [
+            {
+                "cost": 850000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Corona/3354-99th-St-11368/home/20925601",
+        "address": "33-54 99th St, Corona, NY 11368",
+        "phone": "Listing by New Group Realty Inc",
+        "number_beds": "4 beds",
+        "number_baths": "— baths",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/963/genIslnoResize.890963_0.jpg",
+        "price": [
+            {
+                "cost": 4000000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/525-E-89th-St-10128/unit-4B/home/196490516",
+        "address": "525 E 89th St Unit 4B, New York City, NY 10128",
+        "phone": "Listing by Bond New York Properties LLC • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/847/genIslnoResize.RLS20037847_0.jpg",
+        "price": [
+            {
+                "cost": 449000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/16-5th-Ave-10011/unit-5/home/196490482",
+        "address": "16 5th Ave #5, New York City, NY 10011",
+        "phone": "Listing by Corcoran Sunshine Marketing Group • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "4.5 baths",
+        "sq_ft": "3,727 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/846/genIslnoResize.RLS20037846_0.jpg",
+        "price": [
+            {
+                "cost": 12950000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Flushing/139-15-28th-Rd-11354/unit-4C/home/45366737",
+        "address": "139-15 28th Rd Unit 4C, Flushing, NY 11354",
+        "phone": "Listing by Chous Realty Group Inc",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "950 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/971/genIslnoResize.890971_0.jpg",
+        "price": [
+            {
+                "cost": 368000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/1011-Hemlock-St-11208/home/40770301",
+        "address": "1011 Hemlock St, Brooklyn, NY 11208",
+        "phone": "Listing by Century 21 Milestone Team Rlty",
+        "number_beds": "5 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/937/genIslnoResize.890937_0.jpg",
+        "price": [
+            {
+                "cost": 820000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/3044-Paulding-Ave-10469/home/44735949",
+        "address": "3044 Paulding Ave, Bronx, NY 10469",
+        "phone": "Listing by Keller Williams Hudson Valley",
+        "number_beds": "4 beds",
+        "number_baths": "2.5 baths",
+        "sq_ft": "1,440 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/620/genIslnoResize.890620_0.jpg",
+        "price": [
+            {
+                "cost": 739999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/South-Ozone-Park/13529-117th-St-11420/home/20715584",
+        "address": "135-29 117 St, Wakefield, NY 11420",
+        "phone": "Listing by Keller Williams Realty Liberty",
+        "number_beds": "3 beds",
+        "number_baths": "1.5 baths",
+        "sq_ft": "1,400 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/371/genIslnoResize.890371_0.jpg",
+        "price": [
+            {
+                "cost": 575000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bayside/2812-214th-St-11360/home/20834244",
+        "address": "2812 214th St, Bayside, NY 11360",
+        "phone": "Listing by RE/MAX Frontier",
+        "number_beds": "4 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "1,785 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/817/genIslnoResize.890817_0.jpg",
+        "price": [
+            {
+                "cost": 1350000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/185-W-End-Ave-10023/unit-21G/home/167286417",
+        "address": "185 W End Ave Unit 21G, New York City, NY 10023",
+        "phone": "Listing by Douglas Elliman Real Estate • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/835/genIslnoResize.RLS20037835_1.jpg",
+        "price": [
+            {
+                "cost": 925000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/421-4th-St-11215/unit-1/home/196489776",
+        "address": "421 4th St #1, Brooklyn, NY 11215",
+        "phone": "Listing by Coldwell Banker Warburg • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,575 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/833/genIslnoResize.RLS20037833_1.jpg",
+        "price": [
+            {
+                "cost": 1895000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/24-Wayne-St-10310/home/56122068",
+        "address": "24 Wayne St, Staten Island, NY 10310",
+        "phone": "Listing by Voro LLC",
+        "number_beds": "6 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "2,175 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/933/genIslnoResize.890933_0.jpg",
+        "price": [
+            {
+                "cost": 888888,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Forest-Hills/10817-72nd-Ave-11375/unit-5-C/home/196489242",
+        "address": "108-17 72 Ave Unit 5 C, Forest Hills, NY 11375",
+        "phone": "Listing by Winzone Realty Inc",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "795 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/919/genIslnoResize.890919_0.jpg",
+        "price": [
+            {
+                "cost": 918000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Hollis/18407-Henderson-Ave-11423/home/20750081",
+        "address": "184-07 Henderson Ave, Hollis, NY 11423",
+        "phone": "Listing by Compass Greater NY LLC",
+        "number_beds": "3 beds",
+        "number_baths": "1.5 baths",
+        "sq_ft": "1,836 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/105/genIslnoResize.884105_0.jpg",
+        "price": [
+            {
+                "cost": 675000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Forest-Hills/10817-72nd-Ave-11375/unit-5-A/home/196489048",
+        "address": "108-17 72 Ave Unit 5 A, Forest Hills, NY 11372",
+        "phone": "Listing by Winzone Realty Inc",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "597 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/914/genIslnoResize.890914_1.jpg",
+        "price": [
+            {
+                "cost": 689000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "OPEN SAT, 1:45PM TO 4:15PM"
+        ],
+        "key_facts": [
+            "Garage",
+            "Built 2025"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/1420-York-Ave-10021/unit-3G/home/45289853",
+        "address": "1420 York Ave Unit 3G, New York (manhattan), NY 10021",
+        "phone": "Listing by TZM Realty Properties",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "525 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/909/genIslnoResize.890909_0.jpg",
+        "price": [
+            {
+                "cost": 460000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "OPEN SAT, 10AM TO 11AM",
+            "VIDEO TOUR"
+        ],
+        "key_facts": [
+            "Garage",
+            "Built 1956"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Springfield-Gardens/14746-223rd-St-11413/home/20667178",
+        "address": "14746 223rd St, Springfield Gardens, NY 11413",
+        "phone": "Listing by Voro LLC",
+        "number_beds": "6 beds",
+        "number_baths": "4 baths",
+        "sq_ft": "2,250 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/897/genIslnoResize.890897_0.jpg",
+        "price": [
+            {
+                "cost": 1100000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "NEW 2 HRS AGO"
+        ],
+        "key_facts": [
+            "2,483 sq ft lot",
+            "2 garage spots",
+            "Built 2000"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/1592-Independence-Ave-11228/home/40833444",
+        "address": "1592 Independence Ave, Brooklyn, NY 11228",
+        "phone": "Listing by Tiger Realty",
+        "number_beds": "2 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "992 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/303/genIslnoResize.494303_0.jpg",
+        "price": [
+            {
+                "cost": 1150000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "NEW 2 HRS AGO"
+        ],
+        "key_facts": [
+            "1,845 sq ft lot",
+            "Garage",
+            "Built 1950"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/460-Darlington-Ave-10309/home/56120053",
+        "address": "460 Darlington Ave, Staten Island, NY 10309",
+        "phone": "Listing by Robert DeFalco Realty, Inc.",
+        "number_beds": "4 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "3,010 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/187/islphoto/186/genIslnoResize.2504186_0.jpg",
+        "price": [
+            {
+                "cost": 1525000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [
+            "OPEN SUN, 2PM TO 4PM"
+        ],
+        "key_facts": [
+            "5,000 sq ft lot",
+            "Pool",
+            "Built 2006"
+        ],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/25-Marie-St-10305/home/56044724",
+        "address": "25 Marie St, Staten Island, NY 10305",
+        "phone": "Listing by Neuhaus Realty, Inc.",
+        "number_beds": "5 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "2,649 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/187/islphoto/185/genIslnoResize.2504185_0.jpg",
+        "price": [
+            {
+                "cost": 1125000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/23-Mary-St-10304/home/56026559",
+        "address": "23 Marie St, Staten Island, NY 10305",
+        "phone": "Listing by Neuhaus Realty, Inc.",
+        "number_beds": "3 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "1,530 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/187/islphoto/184/genIslnoResize.2504184_0.jpg",
+        "price": [
+            {
+                "cost": 975000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/75-1st-Ave-10003/unit-4B/home/143897489",
+        "address": "75 1st Ave Unit 4b, New York City, NY 10003",
+        "phone": "Listing by Fact Real Estate LLC • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "640 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/818/genIslnoResize.RLS20037818_0.jpg",
+        "price": [
+            {
+                "cost": 1299999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/529-W-42nd-St-10036/unit-6M/home/45318788",
+        "address": "529 W 42nd St Unit 6M, New York City, NY 10036",
+        "phone": "Listing by Keller Williams NYC • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "240,413 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/817/genIslnoResize.RLS20037817_0.jpg",
+        "price": [
+            {
+                "cost": 899000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/69-Monroe-St-11216/home/40732528",
+        "address": "69 Monroe St, Brooklyn, NY 11216",
+        "phone": "Listing by Coldwell Banker Reliable R E",
+        "number_beds": "4 beds",
+        "number_baths": "4 baths",
+        "sq_ft": "2,430 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/898/genIslnoResize.890898_0.jpg",
+        "price": [
+            {
+                "cost": 2450000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/310-Lenox-Rd-11226/unit-4J/home/40673000",
+        "address": "310 Lenox Rd Unit 4J, Brooklyn, NY 11226",
+        "phone": "Listing by Compass • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/813/genIslnoResize.RLS20037813_0.jpg",
+        "price": [
+            {
+                "cost": 320000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/695-1st-Ave-10016/unit-PHD/home/182375706",
+        "address": "695 1st Ave Unit PHD, New York City, NY 10016",
+        "phone": "Listing by Corcoran Sunshine Marketing Group • Provided by REBNY",
+        "number_beds": "4 beds",
+        "number_baths": "4.5 baths",
+        "sq_ft": "3,831 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/815/genIslnoResize.RLS20037815_5.jpg",
+        "price": [
+            {
+                "cost": 7750000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/2246-84th-St-11214/unit-2C/home/40637413",
+        "address": "2246 84th St Unit 2c, Brooklyn, NY 11214",
+        "phone": "Listing by Keller Williams Realty Staten Island",
+        "number_beds": "2 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "955 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/187/islphoto/183/genIslnoResize.2504183_0.jpg",
+        "price": [
+            {
+                "cost": 649999,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Jamaica/71-45-252nd-St-11426/unit-179A/home/196488666",
+        "address": "71-45 252nd St Unit 179A, Bellerose, NY 11426",
+        "phone": "Listing by Modern Spaces Love Your Place",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "750 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/887/genIslnoResize.890887_0.jpg",
+        "price": [
+            {
+                "cost": 249000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/768-E-230th-St-10466/home/44746522",
+        "address": "768 E 230th St, Bronx, NY 10466",
+        "phone": "Listing by Christie's Int. Real Estate",
+        "number_beds": "8 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "2,964 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/787/genIslnoResize.880787_0.jpg",
+        "price": [
+            {
+                "cost": 1100000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/150-W-56th-St-10019/unit-3602/home/45259960",
+        "address": "150 W 56th St #3602, New York City, NY 10019",
+        "phone": "Listing by Compass • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1.5 baths",
+        "sq_ft": "852 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/806/genIslnoResize.RLS20037806_0.jpg",
+        "price": [
+            {
+                "cost": 1489000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/3820-Cypress-Ave-11224/home/40850587",
+        "address": "3820 Cypress Ave, Brooklyn, NY 11224",
+        "phone": "Listing by Exclusive Properties Realty In",
+        "number_beds": "4 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,840 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/301/genIslnoResize.494301_0.jpg",
+        "price": [
+            {
+                "cost": 840000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Glendale/8219-77th-Ave-11385/home/20874937",
+        "address": "82-19 77th Ave, Glendale, NY 11385",
+        "phone": "Listing by Coldwell Banker Phillips",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "1,006 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/870/genIslnoResize.890870_0.jpg",
+        "price": [
+            {
+                "cost": 778000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/190-Cozine-Ave-11207/unit-6F/home/196488124",
+        "address": "190 Cozine Ave Unit 6F, Brooklyn, NY 11207",
+        "phone": "Listing by Locqube New York, Inc.",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "622 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/019/genIslnoResize.879019_0.jpg",
+        "price": [
+            {
+                "cost": 349000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/515-W-23rd-St-10011/unit-6/home/174309751",
+        "address": "515 W 23rd St #6, New York City, NY 10011",
+        "phone": "Listing by Douglas Elliman Real Estate • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "2,300 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/803/genIslnoResize.RLS20037803_1.jpg",
+        "price": [
+            {
+                "cost": 3200000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/1918-8th-Ave-11215/home/40696773",
+        "address": "1918 8th Ave, Brooklyn, NY 11215",
+        "phone": "Listing by Tiger Realty",
+        "number_beds": "12 beds",
+        "number_baths": "6 baths",
+        "sq_ft": "5,628 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/204/islphoto/300/genIslnoResize.494300_0.jpg",
+        "price": [
+            {
+                "cost": 1835000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Long-Island-City/3714-34th-St-11101/unit-N5E/home/174465041",
+        "address": "37-14 34th St Unit N-5E, New York City, NY 11101",
+        "phone": "Listing by Nest Seekers LLC • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "675 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/801/genIslnoResize.RLS20037801_0.jpg",
+        "price": [
+            {
+                "cost": 897000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Flushing/3027-Murray-Ln-11354/home/20859843",
+        "address": "3027 Murray Ln, Flushing, NY 11354",
+        "phone": "Listing by AAA Young Shuen Realty Inc",
+        "number_beds": "4 beds",
+        "number_baths": "3 baths",
+        "sq_ft": "1,200 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/864/genIslnoResize.889864_0.jpg",
+        "price": [
+            {
+                "cost": 1399000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/1314-Virginia-Ave-10462/unit-6G/home/44787632",
+        "address": "1314 Virginia Ave Unit 6G, Bronx, NY 10462",
+        "phone": "Listing by eXp Realty",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "670 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/835/genIslnoResize.890835_0.jpg",
+        "price": [
+            {
+                "cost": 250000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Queens/26910-Grand-Central-Pkwy-11005/unit-30V/home/196487740",
+        "address": "26910 Grand Central Pkwy Unit 30V, Floral Park, NY 11005",
+        "phone": "Listing by NSTowers Inc",
+        "number_beds": "3 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "1,972 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/667/genIslnoResize.890667_1.jpg",
+        "price": [
+            {
+                "cost": 1350000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/35-Hudson-Yards-10001/unit-6803/home/170170287",
+        "address": "35 Hudson Yards #6803, New York City, NY 10001",
+        "phone": "Listing by Elegran LLC • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "3.5 baths",
+        "sq_ft": "2,724 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/795/genIslnoResize.RLS20037795_0.jpg",
+        "price": [
+            {
+                "cost": 5200000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/165-W-End-Ave-10023/unit-6G/home/45197666",
+        "address": "165 W End Ave Unit 6G, New York City, NY 10023",
+        "phone": "Listing by Brown Harris Stevens Residential Sales LLC • Provided by REBNY",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "550 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/792/genIslnoResize.RLS20037792_0.jpg",
+        "price": [
+            {
+                "cost": 549000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Glen-Oaks/6943-260th-Pl-11004/home/20799318",
+        "address": "69-43 260 Pl, Glen Oaks, NY 11004",
+        "phone": "Listing by Winzone Realty Inc",
+        "number_beds": "3 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,824 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/599/genIslnoResize.890599_0.jpg",
+        "price": [
+            {
+                "cost": 1488800,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Kew-Gardens/12428-Queens-Blvd-11415/unit-9D/home/185880762",
+        "address": "124-28 Queens Blvd Unit 9D, Kew Gardens, NY 11415",
+        "phone": "Listing by BERKSHIRE HATHAWAY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "715 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/850/genIslnoResize.890850_0.jpg",
+        "price": [
+            {
+                "cost": 679250,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/43-Murray-St-10007/unit-2/home/196409189",
+        "address": "43 Murray St #2, New York City, NY 10007",
+        "phone": "Listing by Compass • Provided by REBNY",
+        "number_beds": "3 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/789/genIslnoResize.RLS20037789_1.jpg",
+        "price": [
+            {
+                "cost": 2250000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/383-Grand-St-10002/unit-M705/home/196487434",
+        "address": "383 Grand St Unit M705, New York City, NY 10002",
+        "phone": "Listing by LoHo Realty Inc • Provided by REBNY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "1,095 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/788/genIslnoResize.RLS20037788_2.jpg",
+        "price": [
+            {
+                "cost": 975000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/201-W-74th-St-10023/unit-11F/home/45271415",
+        "address": "201 W 74th St Unit 11F, New York City, NY 10023",
+        "phone": "Listing by Douglas Elliman Real Estate • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "611 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/790/genIslnoResize.RLS20037790_0.jpg",
+        "price": [
+            {
+                "cost": 949000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Staten-Island/9-Eagan-Ave-10312/home/56137230",
+        "address": "9 Eagan Ave, Staten Island, NY 10312",
+        "phone": "Listing by Amerihomes Realty of NY, Inc.",
+        "number_beds": "2 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,521 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/187/islphoto/182/genIslnoResize.2504182_0.jpg",
+        "price": [
+            {
+                "cost": 670000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Bronx/836-Revere-Ave-10465/home/44749918",
+        "address": "836 Revere Ave, Bronx, NY 10465",
+        "phone": "Listing by Voro LLC",
+        "number_beds": "4 beds",
+        "number_baths": "— baths",
+        "sq_ft": "2,800 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/485/genIslnoResize.890485_0.jpg",
+        "price": [
+            {
+                "cost": 1399000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Kew-Gardens/12428-Queens-Blvd-11415/unit-9B/home/191605574",
+        "address": "124-28 Queens Blvd Unit 9B, Kew Gardens, NY 11415",
+        "phone": "Listing by BERKSHIRE HATHAWAY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "533 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/843/genIslnoResize.890843_0.jpg",
+        "price": [
+            {
+                "cost": 533000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Kew-Gardens/12428-Queens-Blvd-11415/unit-8A/home/185880516",
+        "address": "124-28 Queens Blvd Unit 8A, Kew Gardens, NY 11415",
+        "phone": "Listing by BERKSHIRE HATHAWAY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "704 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/836/genIslnoResize.890836_0.jpg",
+        "price": [
+            {
+                "cost": 662112,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/520-E-72nd-St-10021/unit-7P/home/196487205",
+        "address": "520 E 72nd St Unit 7P, New York City, NY 10021",
+        "phone": "Listing by Brown Harris Stevens Residential Sales LLC • Provided by REBNY",
+        "number_beds": "1 bed",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/778/genIslnoResize.RLS20037778_0.jpg",
+        "price": [
+            {
+                "cost": 529000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Brooklyn/4015-7th-Ave-11232/unit-12/home/196487203",
+        "address": "4015 7th Ave #12, Brooklyn, NY 11232",
+        "phone": "Listing by Corcoran Group • Provided by REBNY",
+        "number_beds": "2 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "— sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/776/genIslnoResize.RLS20037776_1.jpg",
+        "price": [
+            {
+                "cost": 499000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Ozone-Park/8306-133rd-Ave-11417/home/20728013",
+        "address": "8306 133rd Ave, Ozone Park, NY 11417",
+        "phone": "Listing by Exit Realty First Choice",
+        "number_beds": "4 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "1,216 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/833/genIslnoResize.890833_0.jpg",
+        "price": [
+            {
+                "cost": 619900,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/Rockaway-Park/10004-Shore-Front-Pkwy-11694/unit-22B/home/20641803",
+        "address": "10004 Shore Front Pkwy Unit 22B, Rockaway Park, NY 11694",
+        "phone": "Listing by Zanetis Properties LLC",
+        "number_beds": "2 beds",
+        "number_baths": "2 baths",
+        "sq_ft": "902 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/269/islphoto/829/genIslnoResize.890829_0.jpg",
+        "price": [
+            {
+                "cost": 735000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    },
+    {
+        "url": "https://www.redfin.com/NY/New-York/200-W-End-Ave-10023/unit-8K/home/45206775",
+        "address": "200 W End Ave Unit 8K, New York City, NY 10023",
+        "phone": "Listing by Brown Harris Stevens Residential Sales LLC • Provided by REBNY",
+        "number_beds": "0 beds",
+        "number_baths": "1 bath",
+        "sq_ft": "600 sq ft",
+        "thumbnail_img_url": "https://ssl.cdn-redfin.com/photo/211/islphoto/774/genIslnoResize.RLS20037774_0.jpg",
+        "price": [
+            {
+                "cost": 985000,
+                "currency": "USD",
+                "charge_rate": "one-time",
+                "deal": ""
+            }
+        ],
+        "badge": [],
+        "key_facts": [],
+        "badge_sold": ""
+    }
+]
