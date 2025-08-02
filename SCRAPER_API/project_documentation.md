@@ -1,7 +1,7 @@
 <h1 align="center">Scraper_API_Demo</h1>
 
 <p align="center">
-  <img src="https://github.com/SHAIMOOM251283/SCRAPER_API/blob/main/SCRAPER_API/Copy%20of%20favicon-512x512-1.png?raw=true" width="200"/>
+  <img src="https://github.com/SHAIMOOM251283/SCRAPER_API_DEMO/blob/main/SCRAPER_API/IMAGES/Copy%20of%20favicon-512x512-1.png" width="200"/>
 </p>
 
 **Built with ScraperAPI**, this project showcases efficient and scalable web scraping strategies across multiple platforms, demonstrating the power of API access, proxy rotation, asynchronous processing, and structured data endpoints.
