@@ -8,28 +8,27 @@
 
 ## API_ASYNC_PROXY
 
-`API_ASYNC_PROXY` illustrates three distinct scraping strategies leveraging ScraperAPI’s core capabilities—API access, proxy rotation, and asynchronous processing:
+`API_ASYNC_PROXY` showcases three distinct scraping strategies leveraging ScraperAPI’s core features—API access, proxy rotation, and asynchronous processing:
 
-* **API-based scraping** — Uses ScraperAPI’s direct endpoints to fetch and parse product listings with minimal setup, ideal for straightforward scraping needs.
-* **Proxy-based scraping** — Routes requests through custom proxy configurations to bypass anti-bot measures on platforms like Amazon, enabling robust and uninterrupted data extraction.
+* **API-based scraping** — Utilizes ScraperAPI’s direct endpoints to fetch and parse product listings with minimal setup, ideal for straightforward scraping needs.
+* **Proxy-based scraping** — Routes requests through custom proxy configurations to bypass anti-bot mechanisms on platforms like Amazon, enabling robust and uninterrupted extraction.
 * **Asynchronous batch scraping** — Employs ScraperAPI’s asynchronous batch jobs to collect large volumes of ASINs, followed by concurrent retrieval of detailed product data using multithreading, maximizing throughput and efficiency.
 
 Across all approaches, the project extracts rich product information including titles, prices, ratings, images, and offer details from multiple pages. It supports flexible output formats such as JSON, CSV, and Excel to cater to varied downstream use cases.
 
 ## STRUCTURED_DATA_ENDPOINTS
 
-`STRUCTURED_DATA_ENDPOINTS` illustrates advanced usage of ScraperAPI’s **Structured Data Endpoints** across major platforms—Amazon, eBay, Google, Redfin, and Walmart—demonstrating scalable, multithreaded scraping workflows structured through clearly defined, chained operations tailored for each domain.
+`STRUCTURED_DATA_ENDPOINTS` demonstrates advanced usage of ScraperAPI’s **Structured Data Endpoints** across major platforms—Amazon, eBay, Google, Redfin, and Walmart—highlighting scalable, multithreaded workflows composed of clearly defined operations tailored to each domain.
 
-🔹**Amazon** — Implements a multi-stage, chained pipeline beginning with paginated product searches, followed by the extraction of ASINs either from search results, static lists, or user input. Each ASIN undergoes chained operations to fetch detailed product and offer data. The system supports multithreading for performance and allows output in JSON and CSV formats for both single-product and bulk exports.
+* **Amazon** — Implements a multi-stage pipeline starting with paginated product searches, followed by ASIN extraction from search results, static lists, or user input. Each ASIN is processed through chained steps to retrieve detailed product and offer data. Supports multithreading and outputs in both JSON and CSV formats for single or bulk exports.
 
+* **eBay** — Follows a chained sequence of modular functions: begins with paginated search queries to extract product URLs, continues with extraction of numeric product IDs, and concludes with detailed product data collection. Multithreading enhances performance, and robust error handling ensures reliability. Final data is structured in JSON for e-commerce insights.
 
-🔹**eBay** — Executes a stepwise chained sequence where each function targets a specific phase: the process begins with paginated search queries to extract product URLs, followed by the extraction of numeric product IDs, and culminates in fetching detailed product data. Multithreading accelerates data gathering, and comprehensive error handling ensures stability. All results are compiled into structured JSON format for e-commerce analytics.
+* **Google** — Adopts a modular, sequential workflow across multiple endpoints—Search, Maps, Shopping, Jobs, and News. Each module starts with a query, expands through pagination, and extracts structured results step by step. Though the workflows run independently per endpoint, they share a common architecture focused on error resilience and data consolidation into JSON.
 
-🔹**Google** — Implements a modular and sequential scraping approach for multiple structured endpoints including Search, Maps, Shopping, Jobs, and News. Each module initiates with an initial query to fetch base results and pagination links, followed by iterative expansion through additional paginated URLs. Data extraction proceeds in discrete steps, accumulating structured results incrementally. This design emphasizes robust error handling, scalability, and clear data consolidation into JSON format. While the workflows operate independently per endpoint, together they enable comprehensive and versatile data gathering across diverse Google services.
+* **Redfin** — Applies a chained scraping architecture to extract real estate data. The process begins with paginated queries for rentals and for-sale listings, followed by detailed property and agent data extraction. Utilizes ThreadPoolExecutor for concurrent processing, and compiles results into structured JSON for in-depth market analysis.
 
-🔹**Redfin** — Employs a chained operation model to conduct deep scraping of real estate data. The workflow initiates with paginated searches for rentals and for-sale properties, and progresses through sequential functions to extract detailed property information and agent profiles. ThreadPoolExecutor is used to concurrently process requests, and results are aggregated into JSON for comprehensive real estate intelligence.
-
-🔹**Walmart** — Implements a multi-step, chained scraping pipeline beginning with paginated product searches. Extracted product IDs are passed through successive operations to retrieve detailed product information. Each phase of the workflow is handled in its own modular function, designed for reusability and clarity. The scraper utilizes multithreading for speed and features robust error handling. Final output is exported in JSON format for further product-level analysis.
+* **Walmart** — Executes a multi-step, chained scraping pipeline beginning with paginated product searches. Extracted product IDs are processed through modular functions to retrieve detailed product data. Each step is built for clarity and reuse, enhanced with multithreading and error handling. Final data is output in JSON for product-level analytics.
 
 Each workflow demonstrates how ScraperAPI’s Structured Data Endpoints can be strategically chained—linking initial search endpoints with detailed data extractors—to form cohesive, high-performance scraping pipelines. This modular yet interconnected approach maximizes both flexibility and efficiency across diverse data domains.
 
