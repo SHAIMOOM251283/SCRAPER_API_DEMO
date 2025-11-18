@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Maps Analytics Dashboard</title>
+
+    <!-- Link to main CSS -->
+    <link rel="stylesheet" href="../../styles.css">
+
+    <style>
+        /* Layout container */
+        .dashboard-container {
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Dashboard intro */
+        .dashboard-intro {
+            color: #aed8fa;
+            text-shadow: 0 0 8px rgba(178, 225, 245, 0.4);
+            margin-bottom: 15px;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 250px;
+            min-width: 250px;   /* FIX: sidebar never shrinks */
+            max-width: 250px;   /* FIX: sidebar never grows */
+            flex-shrink: 0;     /* FIX: prevents shrinking in flex layout */
+            background: #001d3d;
+            border-right: 2px solid #003566;
+            padding-top: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar h2 {
+            color: #9bd4ff;
+            margin-bottom: 15px;
+        }
+
+        .sidebar a {
+            padding: 14px 20px;
+            text-decoration: none;
+            color: #c9e6ff;
+            font-size: 1rem;
+            border-bottom: 1px solid rgba(0, 153, 255, 0.15);
+            transition: 0.3s;
+        }
+
+        .sidebar a:hover {
+            background: #003566;
+            color: #00eaff;
+            padding-left: 28px;
+        }
+
+        /* Main content */
+        .main-view {
+            flex-grow: 1;
+            flex-shrink: 1;  /* main view is flexible */
+            background: #000814;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .main-view h1 {
+            color: #e8f7ff;
+            text-shadow: 0 0 12px #009dff;
+        }
+
+        iframe {
+            width: 100%;
+            height: 80vh;
+            border: none;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(0, 174, 255, 0.3);
+            margin-top: 20px;
+        }
+
+        .chart-description {
+            margin-top: 20px;
+            padding: 12px 20px;
+            background: rgba(0, 29, 61, 0.6);
+            border-radius: 10px;
+            color: #9bd4ff;
+            font-size: 1rem;
+            text-align: left;
+            box-shadow: 0 0 12px rgba(0, 174, 255, 0.2);
+        }
+
+        .home-btn {
+            margin: 20px;
+            padding: 12px 20px;
+            background: #001d3d;
+            color: #00d1ff;
+            font-weight: bold;
+            text-align: center;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: 0.3s ease;
+            box-shadow: 0 0 12px rgba(0, 174, 255, 0.4);
+        }
+
+        .home-btn:hover {
+            background: #003566;
+            color: #00eaff;
+            transform: translateY(-2px);
+            box-shadow: 0 0 20px #00c8ff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dashboard-container">
+
+    <!-- Sidebar -->
+    <nav class="sidebar">
+        <h2>Google Insights</h2>
+        <a href="bar_chart.html" target="chartFrame">Bar Chart</a>
+        <a href="pie_chart.html" target="chartFrame">Pie Chart</a>
+        <a href="../../../index.html" class="home-btn">🏠 Home</a>
+    </nav>
+
+    <!-- Main Chart Area -->
+    <div class="main-view">
+        <h1>Google Maps Analytics Dashboard</h1>
+        
+        <p class="dashboard-intro">
+            These visualizations are generated using product data extracted from Google via ScraperAPI.
+        </p>
+
+        <!-- Chart displays here -->
+        <iframe name="chartFrame"></iframe>
+
+        <!-- Chart description -->
+        <div class="chart-description" id="chartDescription">
+            <p>Select a chart from the sidebar to see details here.</p>
+        </div>
+    </div>
+
+</div>
+
+<!-- JavaScript -->
+<script>
+    const chartLinks = document.querySelectorAll('.sidebar a[target="chartFrame"]');
+    const description = document.getElementById('chartDescription');
+
+    chartLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            const chartName = link.textContent;
+            switch(chartName) {
+                case 'Bar Chart':
+                    description.innerHTML = `
+                        <p>
+                            The bar chart displays the number of businesses grouped by their respective types. 
+                            Each bar represents a specific business category and its height corresponds to the total number of entries classified under that type. 
+                            This visualization offers a clear comparison of how frequently different business types appear in the dataset based on Google Maps search results.
+                        </p>`;
+                    break;
+                case 'Pie Chart':
+                    description.innerHTML = `
+                        <p>
+                            The pie chart illustrates the proportional distribution of different business types identified in the dataset. 
+                            Each slice of the chart represents a unique business category, and its size reflects the relative number of businesses falling under that type. 
+                            This visualization provides a quick overview of the most common business categories based on Google Maps search results.
+                        </p>`;
+                    break;
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
